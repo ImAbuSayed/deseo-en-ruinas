@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en ruinas
+
+This log tracks the cryptographic history and versioning for the song **Deseo en ruinas** (deseo-en-ruinas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:51:38.535344 | `v1` | `3e9032f1439920ee13641f03eeaf78d4889ce31992b83e9188a7e1da768f4649` | `c20fac2506189a7fc84b797d9d372106e6c9fb7aedf80f4f0351248651ae77a8` | `2026-06-18_deseo-en-ruinas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

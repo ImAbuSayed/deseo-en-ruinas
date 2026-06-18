@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-ruinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deseo en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-ruinas/) |
+| **Get License** | [Get a Licensing Quote for Deseo en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-ruinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3e9032f1439920ee13641f03eeaf78d4889ce31992b83e9188a7e1da768f4649` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
