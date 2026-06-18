@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-ruinas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Deseo en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-ruinas/) |
+| **Get License** | [Secure Licensing Rights for Deseo en ruinas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-ruinas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime qué me hiciste, mami, que no pienso claro,
+> Ese flow salvaje te hace un lujo muy caro.
+> En medio de la disco, you're the only one I see,
+> Acércate un poquito, ven y baila para mí.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
